@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3494871596063639
+  lightness: 0.35998446322293975
+  rhythmicContrast: 0.7210214010862035
+  saturation: 0.5604713709159963
+cta: {}
+layout_spectrum: 0.9946646317798101
+name: Scout
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.618466122720598
